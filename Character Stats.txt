@@ -1,0 +1,10 @@
+Name:
+Kratos
+Level:
+20
+Defence:
+20
+Attack:
+20
+Life:
+50
